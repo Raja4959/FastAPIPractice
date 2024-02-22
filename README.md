@@ -1,4 +1,4 @@
-# FastAPI Practice Repository
+# FastAPIPractice Repository
 
 Welcome to the FastAPIPractice Repository! This repository is designed for learning and practicing FastAPI, a modern, fast web framework for building APIs with Python 3.7+ based on standard Python type hints.
 
